@@ -1,11 +1,21 @@
 # Hi there, my name is Danylo Kovalchuk 👋
 
-## 💁‍♂️About me
+## 💁‍♂️About Me
 
-I am from Czech Republic🇨🇿, my beloved modern tools:
+I am from the Czech Republic 🇨🇿, enjoying automating thing 🤖 but also building websites from scratch 🧙‍♂️. In no-bugs time improving my skills in brewing 🍺, participating marathons 🏃, mountain biking 🚵 and listen to music on festivals 👨‍🎤.
 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/nodejs.svg" alt="Node.js" width="250"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/react.svg" alt="React" width="200"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/typescript.svg" alt="TypeScript" width="200"/>
+## 🛠️ Currently Working On
 
-![TailwindCss](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/tailwindcss.svg)
+**Painting Shop** 🛒  
+<img src="https://raw.githubusercontent.com/KovalchukDanil0/paint-my-pet/refs/heads/main/src/app/favicon.ico" href="https://paint-my-pet.vercel.app" alt="Node.js" width="100" height="100" />
 
-![Sass](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/sass.svg)
+**Chrome Extension to Automating Work on my current position** 🧩  
+<img src="https://raw.githubusercontent.com/KovalchukDanil0/AEMFixes/refs/heads/main/public/icon-128.png" href="https://github.com/KovalchukDanil0/AEMFixes" alt="Node.js" width="100" height="100" />
+
+## 👨🏼‍💻 My Tech Stack
+
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="Node.js" width="100" height="100" /> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="Vite" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack" width="100" height="100"/>
+
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="Html" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="Css" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCss" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/sass.svg" alt="Sass" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/mdx.svg" alt="MDX" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/npm-icon.svg" alt="NPM" width="100" height="100"/>
+
+<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJs" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/rollupjs.svg" alt="Rollup" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="MongoDB" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSql" width="100" height="100"/> <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" alt="MySql" width="100" height="100"/>
