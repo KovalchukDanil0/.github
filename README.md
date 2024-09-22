@@ -1,16 +1,23 @@
-## Hi there 👋
+<link href="style.css" rel="stylesheet"></link>
 
-<!--
-**KovalchukDanil0/KovalchukDanil0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, my name is Danylo Kovalchuk 👋
 
-Here are some ideas to get you started:
+## 💁‍♂️About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am from Czech Republic🇨🇿, my beloved modern tools:
+
+<div class="logos-container" >
+
+![Next.js](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/nextjs.svg)
+
+![Node.js](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/nodejs.svg)
+
+![React](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/react.svg)
+
+![TypeScript](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/typescript.svg)
+
+![TailwindCss](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/tailwindcss.svg)
+
+![Sass](https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/sass.svg)
+
+</div>

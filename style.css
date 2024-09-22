@@ -1,0 +1,10 @@
+.logos-container {
+    display: inline-grid;
+    grid-template-rows: 30% 30% 30%;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 3px;
+    justify-items: center;
+    align-items: center;
+    gap: 5rem 5%;
+    margin-top: 5rem;
+}
