@@ -8,12 +8,12 @@ I am from the Czech Republic 🇨🇿, enjoying automating thing 🤖 but also b
 
 **Painting Shop** 🛒  
 <a href="https://paint-my-pet.vercel.app">
-<img src="https://raw.githubusercontent.com/KovalchukDanil0/paint-my-pet/refs/heads/main/src/app/favicon.ico" alt="Node.js" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/KovalchukDanil0/paint-my-pet/refs/heads/main/src/app/favicon.ico" alt="Paint My Pet" width="100" height="100" />
 </a>
 
 **Chrome Extension to Automating Work on my current position** 🧩  
 <a href="https://github.com/KovalchukDanil0/AEMFixes">
-<img src="https://raw.githubusercontent.com/KovalchukDanil0/AEMFixes/refs/heads/main/public/icon-128.png" alt="Node.js" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/KovalchukDanil0/AEMFixes/refs/heads/main/public/icon-128.png" alt="AEM Fixes" width="100" height="100" />
 </a>
 
 ## 👨🏼‍💻 My Tech Stack
