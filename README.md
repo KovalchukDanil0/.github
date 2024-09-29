@@ -2,7 +2,7 @@
 
 ## 💁‍♂️About Me
 
-I am from Ukraine 🇺🇦, located in Prague 🇨🇿, enjoying automating thing 🤖 but also building websites from scratch 🧙‍♂️. In no-bugs time improving my skills in brewing 🍺, participating marathons 🏃, mountain biking 🚵 and listen to music on festivals 👨‍🎤.
+I am from Ukraine 🇺🇦, living in Prague 🇨🇿, enjoying automating thing 🤖 but also building websites from scratch 🧙‍♂️. In no-bugs time improving my skills in brewing 🍺, participating marathons 🏃, mountain biking 🚵 and listen to music on festivals 👨‍🎤.
 
 ## 🛠️ Currently Working On
 
