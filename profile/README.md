@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 A Software Engineer, using  
-`.ts`/`.js`, `.rs` and `.py` daily
+`.js`/`.ts`, `.rs` and `.py` daily
 
 Currently Working at [VML](https://www.vml.com)  
 In free time enjoying Programming, 3D Modeling and Pixel Art
