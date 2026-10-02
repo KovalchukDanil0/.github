@@ -10,4 +10,6 @@ You can also find me there:
 - <https://danylo-kovalchuk.link>
 - <https://www.linkedin.com/in/danylo-kovalchuk>
 
+![Top Languages](https://ghstats.dev/api/langs?username=KovalchukDanil0)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T8M627428N)
