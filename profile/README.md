@@ -7,8 +7,9 @@ Currently Working at [VML](https://www.vml.com)
 In free time enjoying Programming, 3D Modeling and Pixel Art
 
 You can also find me there:
-- <https://danylo-kovalchuk.link>
-- <https://www.linkedin.com/in/danylo-kovalchuk>
+
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/danylo-kovalchuk)
+[![Personal Site](personal-site.svg)](https://danylo-kovalchuk.link)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=KovalchukDanil0)
 
